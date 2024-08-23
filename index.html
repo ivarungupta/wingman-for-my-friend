@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lovely Themed Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Discover the Beauty</h1>
+        <p>Enter a phrase and find out a girl's name that represents it:</p>
+        <form id="beautyForm">
+            <input type="text" id="beautyInput" placeholder="Enter your phrase" required>
+            <div class="button-group">
+                <button type="submit" id="findOutButton">Find Out!</button>
+                <button type="button" id="doItAgainButton" style="display: none;">Do It Again!</button>
+            </div>
+        </form>
+        <div id="result" class="result"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
