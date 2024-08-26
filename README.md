@@ -19,12 +19,12 @@ This is a simple web application that allows users to input a phrase related to 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/beauty-phrase-finder.git
+    git clone https://github.com/ivarungupta/wingman-for-my-friend
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd beauty-phrase-finder
+    cd wingman-for-my-friend
     ```
 
 3. Open `index.html` in your preferred web browser.
