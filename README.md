@@ -3,6 +3,10 @@
 Hey! I had to do it for one of my closest friends, basically he wanted to impress her friend (the one whom he likes a lot).
 This is a simple web application that allows users to input a phrase related to beauty, and it returns a corresponding girl's name. The application also handles specific inputs and provides a fun interaction. Additionally, there's a "Do It Again" button that lets users reset the form and try a new phrase.
 
+## Demo
+
+![Password Generator Screenshot](./screenshot1.png)
+
 ## Features
 
 - **Input Normalization**: Handles inputs regardless of case sensitivity and ignores specific punctuation marks like `?`.
