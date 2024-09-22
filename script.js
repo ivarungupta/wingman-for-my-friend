@@ -1,7 +1,7 @@
 document.getElementById("beautyForm").addEventListener("submit", function (event) {
     event.preventDefault();
 
-    // Normalize the input text: convert to lowercase and remove punctuation like "?"
+    // Normalizing the input text: convert to lowercase and remove punctuation like "?"
     let inputText = document.getElementById("beautyInput").value.trim().toLowerCase();
     inputText = inputText.replace(/[?]/g, "");
 
@@ -16,7 +16,8 @@ document.getElementById("beautyForm").addEventListener("submit", function (event
         "beauty defined",
         "what defines beauty",
         "the most beautiful girl in the whole wide world",
-        "queen of nift shillong"
+        "queen of nift shillong",
+        "the girl who makes you say omg"
     ];
 
     
