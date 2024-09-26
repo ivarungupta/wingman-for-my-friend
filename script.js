@@ -17,7 +17,8 @@ document.getElementById("beautyForm").addEventListener("submit", function (event
         "what defines beauty",
         "the most beautiful girl in the whole wide world",
         "queen of nift shillong",
-        "the girl who makes you say omg"
+        "the girl who makes you say omg",
+        "PRESIDENT OF THE WORLD"
     ];
 
     
